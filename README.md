@@ -1,0 +1,2 @@
+# bestmining.top
+btc cloud mining application i am tryin to clone or take over because the owner of the website is a scam artist a thief and a liar ripping off every single person who invest with his site by switching there status to simulation and keeping the bitcoin but claims they are mining which is also ripping off bitcoin itself and against the rules to have that 60000 mining accounts for one individual. BTC.org "I Thought you should know!"
