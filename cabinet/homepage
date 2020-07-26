@@ -1,0 +1,1113 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>BestMining</title>
+<meta name="description" content="BestMining is a simplified bitcoin mining without the cost of electricity and maintenance">
+<meta name="keywords" content="Bitcoin mining, scrypt mining, altcoin mining, cloud mining, bestmining">
+<meta property="og:title" content="BestMining - a platform for cloud mining without investments" />
+<meta property="og:description" content="Get 2750 Gh / s to your balance right now!" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bestmining.top/?ref=" />
+<meta property="og:image" content="https://bestmining.top/public/images/bestmining_repost.jpg?v=2" />
+<link rel="image_src" href="https://bestmining.top/public/images/bestmining_repost.jpg?v=2" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<link rel="apple-touch-icon" sizes="180x180" href="images/logo.png">
+<link rel="icon" type="image/png" href="/public/images/logo.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/public/images/logo.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/public/images/logo.png" sizes="48x48">
+
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Libre+Baskerville:400,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Poppins:100,200,300,400,500,600,700,800" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.css' />
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.brighttheme.css' />
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.mobile.css' />
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css' />
+<link href="https://cdn.jsdelivr.net/npm/select2@4.0.12/dist/css/select2.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="/public/css/style.css?v=38">
+<link rel="stylesheet" href="/public/css/responsive.css?v=21">
+<link rel="stylesheet" href="/public/css/img-base64.css?v=16">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163803815-1" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script type="68a20f31530a2a13baa83815-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-163803815-1');
+    </script>
+
+<script type="68a20f31530a2a13baa83815-text/javascript">
+            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(62453209, "init", {
+                clickmap:true,
+                trackLinks:true,
+                accurateTrackBounce:true,
+                webvisor:true
+            });
+        </script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62453209" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</head>
+<body class="">
+
+
+<section id="preload">
+<h2 class="d-none">for validation</h2>
+<div id="preload-center">
+<div id="preload-center-absolute">
+<div class="object" id="object_one"></div>
+<div class="object" id="object_two"></div>
+<div class="object" id="object_three"></div>
+</div>
+</div>
+</section>
+
+<div class="modal fade" id="modal-lang" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header justify-content-center">
+<h5 class="modal-title" id="exampleModalLongTitle">Language</h5>
+</div>
+<div class="modal-body">
+<div class="row">
+<div class="col-12 col-sm-6">
+<ul>
+<li>
+<a href="/lang/change/en" class="d-flex align-items-center" data-toggle="tooltip" data-placement="bottom" title="English">
+<img src="https://img.icons8.com/color/96/000000/great-britain.png" class="logo-position mr-2" alt="...">
+English </a>
+</li>
+<li>
+<a href="/lang/change/ru" class="d-flex align-items-center" data-toggle="tooltip" data-placement="bottom" title="Russian">
+<img src="https://img.icons8.com/color/48/000000/russian-federation.png" class="logo-position mr-2" alt="...">
+Russian </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="modal-footer justify-content-center">
+<button type="button" class="btn btn-secondary btn-base" data-dismiss="modal">close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div id="back-to-top">
+<a class="top arrow" href="#top">
+<i class="fa fa-angle-up"></i>
+<span>TOP</span>
+</a>
+</div>
+
+<section id="wrapper">
+<h2 class="d-none">for validation</h2>
+
+<header>
+<div class="container-fluid">
+<div class="row">
+<div class="col">
+<ul class="text-center-">
+</ul>
+</div>
+</div>
+</div>
+</header>
+
+<div class="sticky-top">
+<nav class="navbar navbar-height navbar-expand-lg navbar-light bg-light px-0 py-0">
+
+<a class="navbar-brand d-none d-lg-block ml-4 mr-5 no-ajax" href="/">
+<div class="d-flex align-items-center">
+<div class="logo-position logo-img mr-2"></div>
+<div class="d-none d-xl-block logo-font">BestMining</div>
+</div>
+</a>
+<button class="navbar-toggler ml-4 my-2 my-md-3 my-lg-4" type="button" id="menuCollapse">
+<span class="fas fa-align-left"></span>
+</button>
+
+<a class="navbar-brand-2 d-lg-none py-2 py-md-3 py-lg-4 no-ajax" href="/">
+<div class="d-flex align-items-center justify-content-center">
+<div class="logo-position logo-img mr-2"></div>
+<div class="d-none d-sm-block logo-font">BestMining</div>
+</div>
+</a>
+<div class="menu-box w-100" id="nav-main-box">
+
+<ul class="left-menu float-lg-left my-0 pl-3 py-3 py-lg-0">
+<li>
+<a href="/" class="link-nav link-before no-ajax"><i class="fas fa-home"></i></a>
+</li>
+<li><a class="link-nav link-before flag-anchor" href="#tranding">About us</a></li>
+<li><a class="link-nav link-before flag-anchor" href="#why-choose">Advantages</a></li>
+<li><a class="link-nav link-before flag-anchor" href="#statistic">Statistic</a></li>
+<li><a class="link-nav link-before flag-anchor" href="#package">Tariffs</a></li>
+<li><a class="link-nav link-before flag-anchor" href="#prefaqs">FAQ</a></li>
+<li><a class="link-nav link-before flag-anchor" href="#contact">Contacts</a></li>
+</ul>
+
+<ul class="right-menu float-lg-right my-0 pl-0 pr-xl-3 position-md">
+<li><a class="link-nav no-ajax" href="/login">Login</a></li>
+<li><a class="link-nav no-ajax" href="/signup">Register</a></li>
+</ul>
+</div>
+<div class="box-language">
+<a href="" class="lang-link d-flex align-items-center justify-content-center py-2 py-md-3 py-lg-4" data-toggle="modal" data-target="#modal-lang">
+<img src="https://img.icons8.com/color/96/000000/great-britain.png" class="logo-position mr-1" alt="...">
+EN </a>
+</div>
+</nav>
+</div>
+<div class="pjax-container"> 
+<div id="carouselCaptions" class="carousel slide carousel-fade" data-ride="carousel">
+
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="bg-carousel-1 d-block w-100"></div>
+<div class="carousel-caption d-none- d-md-block- text-left py-0 mt-md-n3 mt-lg-0">
+<div class="row align-items-center h-100 wow fadeInDown" data-wow-duration="2s" data-wow-delay="2s">
+<div class="col">
+<h2 class="d-none d-xl-block">Bitcoin, Litecoin, Dogecoin & More</h2>
+<h1 class="pt-md-n3 carousel-font-style"><span class="color-investment">BestMining</span> - platform for cloud mining without deposit</h1>
+<button type="button" class="btn btn-base d-none d-md-block mt-md-2 mt-lg-4 js-goto-register">start earning</button>
+</div>
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="bg-carousel-2 d-block w-100"></div>
+<div class="carousel-caption d-none- d-md-block- text-left py-0 mt-md-n2 mt-lg-0">
+<div class="row align-items-center h-100 wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<div class="col">
+<h1 class="carousel-font-style">Get 2750 Gh/s to your<br class="d-none d-md-block"> balance right now!</h1>
+<button type="button" class="btn btn-base d-none d-md-block mt-md-2 mt-lg-4 js-goto-register">start earning</button>
+</div>
+</div>
+ </div>
+</div>
+<div class="carousel-item">
+<div class="bg-carousel-3 d-block w-100"></div>
+<div class="carousel-caption d-none- d-md-block- text-left py-0 mt-md-n3 mt-lg-0">
+<div class="row align-items-center h-100 wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<div class="col">
+
+<h1 class="carousel-font-style"><span class="d-none d-md-block">Over 20 000 users trust <span class="color-investment">BestMining</span> <br>for maximum profit</span><span class="d-block d-md-none">Over 20 000 users trust <span class="color-investment">BestMining</span></span></h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<a class="carousel-control-prev d-none d-md-flex" href="#carouselCaptions" role="button" data-slide="prev">
+<div class="bg-control-icon">
+<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</div>
+</a>
+<a class="carousel-control-next d-none d-md-flex" href="#carouselCaptions" role="button" data-slide="next">
+<div class="bg-control-icon">
+<span class="carousel-control-next-icon" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</div>
+</a>
+</div> 
+
+<section id="tranding" class="mb-lg-5">
+<div class="container max-w1250">
+<div class="row align-items-center">
+
+<div class="col-12 col-md-7 col-lg-6 pt70 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="3s">
+<div class="text-center text-md-left">
+<h2 class="my-lg-2">Looking for profitable cloud mining without investments?</h2>
+<p>Cloud mining is one of the easiest and most popular ways to make money on cryptocurrencies. Do you want to earn a lot, have a stable income and feel confident in the future? <br> <br> <span class="bolder700 color-investment">BestMining</span> will help you with this! Our company is a conductor between you and your earnings. Since we develop our own equipment, and do not purchase from manufacturers, we can guarantee you the best prices. We have been on the market since 2013, during this time we have become experts in our niche and will be happy to help make your dream a reality!</p>
+<button type="button" class="btn btn-base js-goto-register">let's go</button>
+</div>
+</div>
+
+<div class="d-none d-md-block col-md-5 col-lg-6 pt70 wow fadeInDown" data-wow-duration="2s" data-wow-delay="3s">
+
+<div class="row">
+<div class="col-5 pr-2">
+<div class=" about-img-1">
+</div>
+</div>
+<div class="col-7 pl-2">
+<div class="about-img-2">
+</div>
+</div>
+</div>
+
+<div class="row mt-3">
+<div class="col-7 pr-2">
+<div class="about-img-3">
+</div>
+</div>
+<div class="col-5 pl-2">
+<div class=" about-img-4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="why-choose">
+ <div class="container max-w1250">
+<div class="row">
+
+<div class="col-12 pt70 text-center wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<h2>Why <span class="color-orange">choose</span> us?</h2>
+<div class="line-centered-circolar"></div>
+<p>The main reasons for the trust and cooperation of our customers with us</p>
+</div>
+
+<div class="col-12">
+<div class="row">
+
+<div class="col-12 col-md-6 col-lg-4 mt-4">
+<div class="box-reason wow fadeInUpBig" data-wow-duration="1.2s" data-wow-delay="1.2s">
+
+<div class="why-choose-img1"></div>
+<h3 class="mt-2 mb-3">EASILY</h3>
+<p>Instant connection! Quick replenishment and withdrawal of funds within an hour</p>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 mt-4">
+<div class="box-reason wow fadeInUpBig" data-wow-duration="1.4s" data-wow-delay="1.4s">
+<div class="why-choose-img2"></div>
+<h3 class="mt-2 mb-3">Referral program</h3>
+<p>40 Gh/s for each referral of the 1st level + 12% bonus from replenishment</p>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 mt-4">
+<div class="box-reason wow fadeInUpBig" data-wow-duration="1.6s" data-wow-delay="1.6s">
+<div class="why-choose-img3"></div>
+<h3 class="mt-2 mb-3">FAVORABLE</h3>
+<p>Fast profitability! Get 3.5% per day, with a replenishment of $ 50</p>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 mt-4">
+<div class="box-reason wow fadeInUpBig" data-wow-duration="1.7s" data-wow-delay="1.7s">
+<div class="why-choose-img4"></div>
+<h3 class="mt-2 mb-3">Bonuses</h3>
+<p>Get bonuses from 5 to 50 Gh/s. The time for receiving depends on the chosen tariff plan </p>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 mt-4">
+<div class="box-reason wow fadeInUpBig" data-wow-duration="1.9s" data-wow-delay="1.9s">
+<div class="why-choose-img5"></div>
+<h3 class="mt-2 mb-3">Expert support</h3>
+<p>Didn't find an answer on your question? Write in support! Response time - less than a minute!</p>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 mt-4">
+<div class="box-reason wow fadeInUpBig" data-wow-duration="2.1s" data-wow-delay="2.1s">
+<div class="why-choose-img6"></div>
+<h3 class="mt-2 mb-3">mobile version</h3>
+<p>Perfectly designed mobile version will open you access to the site even from your phone</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="statistic">
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-12 col-md-6 col-lg-3 pt30">
+<div class="box-statistic wow zoomIn" data-wow-duration="1.2s" data-wow-delay="1.2s">
+<div class="img-size tranding-a2"></div>
+<h3 class="my-3">Registrations</h3>
+<h1>206 153</h1>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-3 pt30">
+<div class="box-statistic wow zoomIn" data-wow-duration="1.4s" data-wow-delay="1.4s">
+<div class="img-size tranding-a3"></div>
+<h3 class="my-3">Bonuses</h3>
+<h1>121 138 112</h1>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-3 pt30">
+<div class="box-statistic wow zoomIn" data-wow-duration="1.6s" data-wow-delay="1.6s">
+<div class="img-size tranding-a4"></div>
+<h3 class="my-3">Withdrawals</h3>
+<h1>51 216.31</h1>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-3 pt30">
+<div class="box-statistic wow zoomIn" data-wow-duration="1.8s" data-wow-delay="1.8s">
+<div class="img-size tranding-a5"></div>
+<h3 class="my-3">Power</h3>
+<h1>943 712 786</h1>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="tab-value">
+<h2 class="d-none">for validation</h2>
+<div class="container max-w1250 wow fadeInDown" data-wow-duration="2s" data-wow-delay="2s">
+<div class="row">
+<div class="col-12 pt70">
+<div class="section-tabs tab-border">
+<ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
+<li class="nav-item">
+<a class="nav-link tab-title active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Last <span class="color-investment">replenishments</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link tab-title" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Last <span class="color-investment">withdrawals</span></a>
+</li>
+</ul>
+<div class="tab-content" id="myTabContent">
+<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+<table class="table table-hover table-striped tab-content flag-responsive w-100">
+<thead class="thead-bg">
+<tr>
+<th scope="col">Date</th>
+<th scope="col">User</th>
+<th scope="col">Amount</th>
+<th scope="col">From</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">05:18:54</th>
+<td>_eghrajs6_</td>
+ <td>0.00119176</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">05:18:22</th>
+<td>_eymondsamoran_</td>
+<td>2.89743723</td>
+<td>TRX</td>
+</tr>
+<tr>
+<th scope="row">05:18:19</th>
+<td>_ragonknightx_</td>
+<td>111.27280707</td>
+<td>DOGE</td>
+</tr>
+<tr>
+<th scope="row">05:18:08</th>
+<td>_inerap_</td>
+<td>0.00948384</td>
+<td>XMR</td>
+</tr>
+<tr>
+<th scope="row">05:17:53</th>
+<td>_ambangkurniawan1_</td>
+<td>0.00102981</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">05:17:18</th>
+<td>_jaydas_</td>
+<td>0.00002214</td>
+<td>BTC</td>
+</tr>
+<tr>
+<th scope="row">05:17:17</th>
+<td>_ianpasba_</td>
+<td>0.00364138</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">05:17:13</th>
+<td>_e.rizwan.si_</td>
+<td>33.19560751</td>
+<td>DOGE</td>
+</tr>
+<tr>
+<th scope="row">05:16:59</th>
+<td>_ohnaxl11_</td>
+<td>0.00229706</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">05:16:31</th>
+ <td>_ethi250920_</td>
+<td>0.00000519</td>
+<td>BTC</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="tab-pane fade " id="profile" role="tabpanel" aria-labelledby="profile-tab">
+<table class="table table-hover table-striped tab-content flag-responsive w-100">
+<thead class="thead-bg">
+<tr>
+<th scope="col">Date</th>
+<th scope="col">User</th>
+<th scope="col">Amount</th>
+<th scope="col">From</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">05:18:45</th>
+<td>_bsaharan1_</td>
+<td>0.02514663</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">05:09:42</th>
+<td>_arcelcolchesq_</td>
+<td>1838.33000000</td>
+<td>DOGE</td>
+</tr>
+<tr>
+<th scope="row">05:05:57</th>
+<td>_ading889_</td>
+<td>0.03600242</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">04:49:05</th>
+<td>_udipjamatia_</td>
+<td>0.11648973</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">04:47:54</th>
+<td>_lairun_</td>
+<td>555.34000000</td>
+<td>DOGE</td>
+</tr>
+<tr>
+<th scope="row">04:47:16</th>
+<td>_ifahru_</td>
+<td>548.75000000</td>
+<td>DOGE</td>
+</tr>
+<tr>
+ <th scope="row">04:35:14</th>
+<td>_eevanguragain199_</td>
+<td>0.02469445</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">04:34:43</th>
+<td>_yourname_</td>
+<td>0.03271348</td>
+<td>LTC</td>
+</tr>
+<tr>
+<th scope="row">04:33:34</th>
+<td>_guyencongdien9_</td>
+<td>540.46000000</td>
+<td>DOGE</td>
+</tr>
+<tr>
+<th scope="row">04:25:56</th>
+<td>_uraku_</td>
+<td>789.70000000</td>
+<td>DOGE</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="prefaqs">
+<div class="container max-w1250">
+<div class="row">
+
+<div class="col-12 pt70 text-center wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<h2>FA<span class="color-orange">Q</span></h2>
+<div class="line-centered-circolar"></div>
+<p>If you did not find the answer to your question, please contact the company support service</p>
+</div>
+
+<div class="col-12 mt-3 bg-">
+<div class="row justify-content-around">
+
+<div class="col-12 col-md-6 col-lg-5 bg wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>How to register?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>Click the Register, fill in all the fields and click the "register" button. Indicate the current mail and remember the password. Data recovery is not possible! If you already have an account, then click the Login button and log in.</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>How to get a bonus?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>To receive a bonus, log in to your account, open the "Bonus" page and click "receive bonus." You can receive this type of bonus an unlimited number of times per day. The time for receiving bonus depends on the chosen tariff plan</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>What are the conditions of the referral program?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>When registering on your referral link, you will receive 40 Gh / s for each referral of the 1st level + 12% bonus from replenishment</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>How fast can I withdraw money without deposit?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>Without replenishment, you will need 25-30 days to accumulate a minimum amount. Use the free bonus and referral program to speed up mining.</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>How long is the contract?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>When you replenishing account, you enter into an agreement with the company for 6 months. Each subsequent replenishment extends the duration of the contract for the same period.</p>
+</div>
+</div>
+</div>
+
+<div class="col-12 col-md-6 col-lg-5 bg wow fadeInRight" data-wow-duration="1s" data-wow-delay="1s">
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>Can I change my password or mail?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>Your referral link is tied to mail, therefore it cannot be changed. You can change the password on the site in the "Profile" section in your account. Password reset for e-mail is not possible!</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>What is the minimum amount to withdraw money?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>Minimum amount required to withdraw money: <span class="bolder700">
+0.50000000 XMR;
+200.00000000 TRX;
+0.00500000 BTC;
+0.10000000 BCH;
+540.34081087 DOGE;
+0.02469281 LTC;
+</span> You can submit an application for withdrawal on the page "Withdrawal".</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>What is the minimum deposit amount?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>The minimum deposit amount is 0.1 USD. To purchase power, go to the "Replenishment" page in your account.</p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>Where to see the withdrawal confirmation?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>All your requests for withdrawal of funds are displayed in your account, in the section History of operations </p>
+</div>
+</div>
+<div class="accordion-box">
+
+<div class="accordion-header">
+<span>How to withdraw money and how long does it take?</span>
+<span class="toggle-direction"><i class="fas fa-chevron-right"></i></span>
+</div>
+
+<div class="accordion-description">
+<p>Crediting funds usually takes from 10 minutes to 6 hours. To carry out the operation, you need to fill out an application on the "Withdrawal" page. Fill in all the necessary fields, where in the "wallet number" field, indicate the number of your wallet to which you want to transfer. The wallet number must necessarily correspond to the currency that you specified in the withdrawal method. For example, if you specified Bitcoin in the withdrawal method, then you must enter the Bitcoin number of the wallet.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="faqs">
+
+<div class="infosite-bg wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<div class="container max-w1250">
+<div class="row">
+<div class="col-12 text-center mt-3">
+<h1 class="my-2 responsive-text">Still have questions?</h1>
+<p class="mb-3">You did not find the necessary information? Contact us by filling out the form below.</p>
+<button type="button" class="btn btn-base mt-4" id="js-give-question">Ask a Question</button>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="package">
+<div class="container">
+<div class="row">
+
+<div class="col-12 pt70 text-center wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<h2>Tariff <span class="color-orange">plans</span></h2>
+<div class="line-centered-circolar"></div>
+<p>Choose the best tariff and start earning now!</p>
+</div>
+
+<div class="col-12">
+<div class="row justify-content-center wow slideInUp" data-wow-duration="1s" data-wow-delay="1s">
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-4">
+<div class="box-package">
+<h2 class="title">FREE</h2>
+<div class="box-pack-price">
+<h1>
+1%
+<span class="period">/&nbsp;0$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 60 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5 mt-md-4">
+<div class="box-package">
+<h2 class="title">ECONOMY</h2>
+<div class="box-pack-price">
+ <h1>
+2%
+<span class="period">/&nbsp;1$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 50 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5 mt-lg-4">
+<div class="box-package">
+<h2 class="title">BASIC</h2>
+<div class="box-pack-price">
+<h1>
+2.5%
+<span class="period">/&nbsp;5$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 40 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5 mt-lg-5 mt-xl-4">
+<div class="box-package">
+<h2 class="title">ADVANCED</h2>
+<div class="box-pack-price">
+<h1>
+3%
+<span class="period">/&nbsp;25$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 30 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5">
+<div class="box-package">
+<h2 class="title">BUSINESS</h2>
+<div class="box-pack-price">
+<h1>
+3.5%
+<span class="period">/&nbsp;50$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 20 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5">
+<div class="box-package">
+<h2 class="title">PREMIUM</h2>
+<div class="box-pack-price">
+<h1>
+4%
+<span class="period">/&nbsp;100$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 15 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5">
+<div class="box-package">
+<h2 class="title">FLASH</h2>
+<div class="box-pack-price">
+<h1>
+4.5%
+<span class="period">/&nbsp;200$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 10 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5">
+<div class="box-package">
+<h2 class="title">EXCLUSIVE</h2>
+<div class="box-pack-price">
+<h1>
+5%
+<span class="period">/&nbsp;400$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 5 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5">
+<div class="box-package">
+<h2 class="title">ROYALE</h2>
+<div class="box-pack-price">
+<h1>
+5.5%
+<span class="period">/&nbsp;800$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 5 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+<div class="col-11 col-sm-9 col-md-6 col-lg-4 col-xl-3  mt-5">
+<div class="box-package">
+<h2 class="title">ENTERPRISE</h2>
+<div class="box-pack-price">
+<h1>
+6%
+<span class="period">/&nbsp;1600$</span>
+</h1>
+</div>
+<ul>
+<li>+&nbsp;2750&nbsp;Gh/s for register</li>
+</ul>
+<ul>
+<li>+ Bonus interval 5 minutes</li>
+</ul>
+<a class="btn btn-base js-goto-register" href="#">buy now</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="contact">
+<div class="contact-bg"></div>
+<div class="container max-w1250 wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+<div class="row d-flex justify-content-center">
+
+<div class="col-12 col-sm-8 col-md-6 col-lg-4 pt30">
+<div class="contact-box">
+<div class="row align-items-center">
+<div class="col-4 d-flex justify-content-center">
+<i class="fas fa-map-marker-alt"></i>
+</div>
+<div class="col-8 d-flex flex-column align-items-center">
+<h4>Address</h4>
+<p class="m-0">1149&nbsp;S&nbsp;Hill&nbsp;St&nbsp;H300,<br>Los&nbsp;Angeles, CA&nbsp;90015, USA</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-12 col-sm-8 col-md-6 col-lg-4 pt30">
+<div class="contact-box">
+<div class="row align-items-center">
+<div class="col-4 d-flex justify-content-center">
+<i class="fas fa-mobile-alt"></i>
+</div>
+<div class="col-8 d-flex flex-column align-items-center">
+<h4>Phone</h4>
+<p class="m-0">+1 213-741-7400<br>Mon - Sat : 08am - 20pm</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-12 col-sm-8 col-md-6 col-lg-4 pt30">
+<div class="contact-box">
+<div class="row align-items-center">
+<div class="col-4 d-flex justify-content-center">
+<i class="fas fa-calendar-alt"></i>
+</div>
+<div class="col-8 d-flex flex-column align-items-center">
+<h4>Schedule</h4>
+<p class="m-0">Mon - Sat : 08am - 20pm<br>Sunday : day off</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="login-register">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-lg-5 d-flex align-items-center">
+<div class="enter-box ">
+<div class="d-flex mt-3 mb-4">
+<div class="img-size login-img1 mr-4"></div>
+<p class="">Please, before click registration read <br> our <a href="/public/privacy/terms.pdf">terms of use</a></p>
+</div>
+<div class="d-flex mb-4">
+<div class="img-size login-img2 mr-3"></div>
+<p>We value and respect your privacy. Data Leak Excluded</p>
+</div>
+<div class="d-flex mb-3">
+<div class="img-size login-img3 mr-3"></div>
+<p class="text-underline">Remember your password, data recovery is not possible</p>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-5 p-0 pr-md-3 pl-md-3">
+<div class="login-register-box">
+
+<div class="login-register-content text-center">
+<h2 class="">Registration</h2>
+<form data-ui-jp="validate" id="signup" action="javascript:void(0);" onsubmit="if (!window.__cfRLUnblockHandlers) return false; requestAjax('signup', 'https://bestmining.top/users/signup');" method="post" novalidate="novalidate" data-cf-modified-68a20f31530a2a13baa83815-="">
+<div class="row justify-content-center">
+
+<div class="col-12 col-lg-10">
+<div class="form-group mt-2 mb-3">
+<input type="email" id="email" name="email" class="form-control" placeholder="Email" required="">
+</div>
+</div>
+
+<div class="col-12 col-lg-10">
+<div class="form-group mb-3">
+<input type="password" id="password" name="password" class="form-control" placeholder="Password" required="" minlength="6" maxlength="20">
+</div>
+</div>
+
+<div class="col-12 col-lg-10">
+<div class="form-group mb-3">
+
+<input type="password" id="repassword" name="repassword" class="form-control" placeholder="Repeat password" required="" minlength="6" maxlength="20">
+</div>
+</div>
+<div class="col-12 col-lg-10 d-flex justify-content-center">
+<div class="g-recaptcha" data-sitekey="6LfgIP4UAAAAAKi6d68bSlhRy_FSEzX9uoTIBftE"></div>
+</div>
+
+<div class="col-12 col-lg-10 mt-3">
+<h3 class="text-center">Registration or <a href="/login">Authorization</a></h3>
+</div>
+
+<div class="col-12 col-lg-10 mt-3">
+<button type="submit" class="btn btn-base btn-block">Register</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+ <section id="basement">
+
+<footer>
+<div class="footer-bg"></div>
+<div class="footer-box">
+<div class="container max-w1250">
+<div class="row">
+
+<div class="col-12 col-sm-6 col-lg-4">
+<a href="/" class="d-inline-flex align-items-center my-4 no-ajax">
+<div class="img-size logo-img mr-2"></div>
+<h4 class="my-0">BestMining</h4>
+</a>
+<p>Investing in bitcoin cloud mining is the most reasonable step in saving and increasing cryptocurrency savings.</p>
+<p><span class="bolder700">BestMining</span> – is a simplified cryptocurrencies mining that eliminates the cost of electricity, round-the-clock monitoring, software and other costs associated with classic mining.</p>
+
+<div class="addthis_inline_share_toolbox"></div>
+</div>
+
+<script type="68a20f31530a2a13baa83815-text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eaa681e57f02b08"></script>
+
+<div class="col-12 col-sm-6 col-lg-3">
+<h4 class="my-4 pt-2">Usefull links</h4>
+<ul class="mb-3 mb-lg-0">
+<li><a class="flag-anchor" href="#tranding">About us</a></li>
+<li><a class="flag-anchor" href="#why-choose">Advantages</a></li>
+<li><a class="flag-anchor" href="#statistic">Statistic</a></li>
+<li><a class="flag-anchor" href="#package">Tariffs</a></li>
+<li><a class="flag-anchor" href="#prefaqs">FAQ</a></li>
+<li><a class="flag-anchor" href="#contact">Contacts</a></li>
+</ul>
+</div>
+
+<div class="col-12 col-lg-5">
+<h4 class="my-4 pt-2">Leave us a message</h4>
+<form data-ui-jp="validate" class="writeUs" id="contact_form" action="javascript:void(0);" onsubmit="if (!window.__cfRLUnblockHandlers) return false; requestAjax('contact_form', 'https://bestmining.top/contact');" method="post" novalidate="novalidate" data-cf-modified-68a20f31530a2a13baa83815-="">
+<div class="row">
+
+<div class="col-12 col-sm-6 mt-sm-2">
+<div class="form-group mb-4">
+
+<input type="text" id="name" name="name" class="form-control contact-input" placeholder="Your Name" required="">
+</div>
+</div>
+
+<div class="col-12 col-sm-6 mt-sm-2">
+<div class="form-group  mb-4">
+<input type="email" id="c_email" name="email" class="form-control contact-input" placeholder="Your email" required="">
+</div>
+ </div>
+
+<div class="col-12">
+<div class="form-group mb-3">
+<textarea id="message" name="message" class="form-control contact-input" placeholder="Your Message" rows="4" required=""></textarea>
+</div>
+</div>
+
+<div class="col-12 mt-3">
+<button type="submit" class="btn btn-base btn-block">send a message</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<div class="copyright pt70">
+<p class="my-0 py-4 text-uppercase">&copy;2020 <a href="/" class=" no-ajax">BestMining</a> All&nbsp;Rights&nbsp;Reserved</p>
+</div>
+</section>
+</div> 
+</section>
+
+
+<script src="https://code.jquery.com/jquery-3.4.0.min.js" integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=" crossorigin="anonymous" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" type="68a20f31530a2a13baa83815-text/javascript"></script>
+
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax-min.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" type="68a20f31530a2a13baa83815 -text/javascript"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/select2@4.0.12/dist/js/select2.min.js" type="https://api.cloudflare.com/client/v4/user/tokens/verify"\-H"Authorization: Bearer_a7tNG5Zcz44Y4rwHpwGgGASE46rTFxqrz-HNGrCY-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.mobile.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.callbacks.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.history.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.2.1/pnotify.animate.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://www."https://api.cloudflare.com/client/v4/user/tokens/verify" \      -H "Authorization: Bearergoogle.com/recaptcha/api.js" async defer type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="/public/js/main.js?v=23" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="/public/framework.js?v=10" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="/public/app.js?v=10" type="68a20f31530a2a13baa83815-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="68a20f31530a2a13baa83815-|49" defer=""></script></body>
+</html>
